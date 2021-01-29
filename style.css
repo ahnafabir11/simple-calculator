@@ -50,6 +50,10 @@ body {
   border-radius: 5px;
 }
 
+.grid-container>button:hover {
+  box-shadow: 0px 0px 2px #757575;
+}
+
 .grid-container>button:focus {
   outline: 0px;
 }
